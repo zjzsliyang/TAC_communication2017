@@ -5,7 +5,9 @@
 
 ## Lession1: Getting Started with iOS Development
 
-3:30-5;30 pm, *July 10, 2017*
+3:30-5:30 pm, July 10, 2017.
+
+Room 309, Jishi Building.
 
 👦**主讲人**：[朱彦樵](https://github.com/SXKDZ)
 
@@ -15,6 +17,10 @@
 
 ## Lession2: iOS UI Design with Sketch
 
-👦**主讲人**：[林琳]()
+July 11, 2017.
+
+Room 309, Jishi Building.
+
+👦**主讲人**：[林琳](https://github.com/linlemn)
 
 相关材料与文字教程:
