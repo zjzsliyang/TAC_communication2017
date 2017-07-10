@@ -17,7 +17,7 @@ Room 309, Jishi Building.
 
 ## Lession2: iOS UI Design with Sketch
 
-July 11, 2017.
+9:00-11:00 am, July 11, 2017.
 
 Room 309, Jishi Building.
 
