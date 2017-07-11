@@ -24,3 +24,15 @@ Room 309, Jishi Building.
 👦**主讲人**：[林琳](https://github.com/linlemn)
 
 相关材料与文字教程:
+
+1. [Sketch文件](Lecture2/courseForSketch.sketch)
+
+## Lecture3: Simple UI Implement
+
+9:00-11:00 am, July 12, 2017.
+
+Room 309, Jishi Building.
+
+👦**主讲人**：[林程](https://github.com/KellyLC)
+
+相关材料与文字教程:
