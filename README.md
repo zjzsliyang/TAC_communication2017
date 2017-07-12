@@ -49,3 +49,14 @@ Room 309, Jishi Building.
 👦**主讲人**：[李阳](https://github.com/zjzsliyang)
 
 相关材料与文字教程:
+
+## Lecture5: TableView & Extension, Protocols, Delegation
+
+July 14, 2017.
+
+Room 309, Jishi Building.
+
+👦**主讲人**：[毕萧](https://github.com/Bixiao723)
+
+相关材料与文字教程:
+
