@@ -36,3 +36,16 @@ Room 309, Jishi Building.
 👦**主讲人**：[林程](https://github.com/KellyLC)
 
 相关材料与文字教程:
+
+1. [Slides](Lecture3/CS193P_S16_Lecture_2_Slides.pdf)
+2. [Demo](Lecture3/eg/)
+
+## Lecture4: 
+
+9:00-11:00 am, July 12, 2017.
+
+Room 309, Jishi Building.
+
+👦**主讲人**：[李阳](https://github.com/zjzsliyang)
+
+相关材料与文字教程:
