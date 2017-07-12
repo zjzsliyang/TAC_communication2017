@@ -27,7 +27,7 @@ Room 309, Jishi Building.
 
 1. [Sketch文件](Lecture2/courseForSketch.sketch)
 
-## Lecture3: Simple UI Implement
+## Lecture3: MVC & Segue
 
 9:00-11:00 am, July 12, 2017.
 
@@ -40,9 +40,9 @@ Room 309, Jishi Building.
 1. [Slides](Lecture3/CS193P_S16_Lecture_2_Slides.pdf)
 2. [Demo](Lecture3/eg/)
 
-## Lecture4: 
+## Lecture4: Calculator & CocoaPods
 
-9:00-11:00 am, July 12, 2017.
+9:00-11:00 am, July 13, 2017.
 
 Room 309, Jishi Building.
 
