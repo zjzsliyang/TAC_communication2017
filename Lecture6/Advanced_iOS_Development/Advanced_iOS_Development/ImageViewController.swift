@@ -30,7 +30,7 @@ class ImageViewController: UIViewController {
   private func getImageFromInternet(url: String, completion: ((UIImage) -> ())? = nil) {
     guard let url = URL(string: url) else { return }
     
-    let queue = DispatchQueue(label: "get_image_from_internet")
+    let queue = DispatchQueue.global(qos: .userInteractive)
     queue.async {
       do {
         let data = try Data(contentsOf: url)

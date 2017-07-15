@@ -23,37 +23,27 @@ class UniversityViewController: UIViewController {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
     
-    let session = URLSession(configuration: .default)
-    if let url = URL(string: "http://universities.hipolabs.com/search?name=tongji&country=china") {
-      let task = session.dataTask(with: url, completionHandler: { (data, response, error) in
-        if let error = error {
-          print("Networking error: \(error)")
-          return
-        }
-        
-        if let data = data {
-          do {
-            let jsonOptional = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
-            if let json = jsonOptional as? [Any] {
-              for universityOptional in json {
-                if let university = universityOptional as? [String: Any] {
-                  if let name = university["name"] as? String, let url = university["web_page"] as? String {
-                    self.universities.append(University(name: name, url: url))
-                  }
-                }
-              }
-              
-              DispatchQueue.main.async {
-                self.tableView.reloadData()
+    let queue = DispatchQueue.global(qos: .userInteractive)
+    queue.async {
+      do {
+        guard let url = URL(string: "http://universities.hipolabs.com/search?name=university") else { return }
+        let data = try Data(contentsOf: url)
+        let jsonOptional = try JSONSerialization.jsonObject(with: data, options: .allowFragments)
+        if let json = jsonOptional as? [Any] {
+          for universityOptional in json {
+            if let university = universityOptional as? [String: Any] {
+              if let name = university["name"] as? String, let url = university["web_page"] as? String {
+                self.universities.append(University(name: name, url: url))
               }
             }
-          } catch {
-            print("JSON parse error!")
+          }
+          DispatchQueue.main.async {
+            self.tableView.reloadData()
           }
         }
-      })
-      
-      task.resume()
+      } catch {
+        print("error")
+      }
     }
   }
   
