@@ -50,13 +50,16 @@ Room 309, Jishi Building.
 
 相关材料与文字教程:
 
+1. [第三方库的使用](https://github.com/zjzsliyang/TAC_communication2017/blob/master/Lecture4/%E7%AC%AC%E4%B8%89%E6%96%B9%E5%BA%93%E5%8F%8A%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BB%8B%E7%BB%8D%E5%92%8C%E4%BD%BF%E7%94%A8.md)
+2. [计算器Demo](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture4/Demo)
+
 ## Lecture5: TableView & Extension, Protocols, Delegation
 
 3:30-5:30 pm, July 14, 2017.
 
 Room 309, Jishi Building.
 
-👦**主讲人**：[毕萧](https://github.com/Bixiao723)
+👦**主讲人**：[毕萧](https://github.com/jasminexiao)
 
 相关材料与文字教程:
 
