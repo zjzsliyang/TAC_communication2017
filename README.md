@@ -63,7 +63,7 @@ Room 309, Jishi Building.
 
 相关材料与文字教程:
 
-1. Slides
+1. [Slides](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture5/protocol)
 
 ## Lecture6: Advanced iOS Development
 
