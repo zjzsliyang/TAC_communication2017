@@ -60,9 +60,11 @@ Room 309, Jishi Building.
 
 相关材料与文字教程:
 
-## Lecture6:
+1. Slides
 
-3:30-5:30 pm, July 14, 2017.
+## Lecture6: Advanced iOS Development
+
+3:30-5:30 pm, July 15, 2017.
 
 Room 309, Jishi Building.
 
@@ -73,5 +75,11 @@ Room 309, Jishi Building.
 1. [Material](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture6)
 2. [Demo](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture6/Advanced_iOS_Development)
 
-## Lecture7:
+## Lecture7: 
+
+3:30-5:30 pm, July 16, 2017.
+
+Room 309, Jishi Building.
+
+👦**主讲人**：[李锐](https://github.com/bewils)
 
