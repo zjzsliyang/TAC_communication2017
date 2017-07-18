@@ -65,7 +65,7 @@ Room 309, Jishi Building.
 
 1. [Slides](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture5/protocol.pdf)
 
-## Lecture6: Advanced iOS Development
+## Lecture6: Advanced iOS Development(I)
 
 3:30-5:30 pm, July 15, 2017.
 
@@ -78,11 +78,27 @@ Room 309, Jishi Building.
 1. [Material](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture6)
 2. [Demo](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture6/Advanced_iOS_Development)
 
-## Lecture7: 
+## Lecture7: Advanced iOS Development(II)
 
 3:30-5:30 pm, July 16, 2017.
 
 Room 309, Jishi Building.
 
 👦**主讲人**：[李锐](https://github.com/bewils)
+
+相关材料与文字教程:
+
+1. [Demo](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture7/ForMe)
+
+## Lecture8: Animate Your iOS App
+
+3:30-5:30 pm, July 17, 2017.
+
+Room 309, Jishi Building.
+
+👦**主讲人**：[李阳](https://github.com/zjzsliyang)
+
+相关材料与文字教程:
+
+1. [Material](https://github.com/zjzsliyang/TAC_communication2017/tree/master/Lecture8)
 
